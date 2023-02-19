@@ -27,3 +27,6 @@ L'affichage des differents enregistrements se fait avec la requete all
 Pour la requete Login, nous utilisons l'id et le nom, ce qui nous donne ceci :
 
 <img width="644" alt="7" src="https://user-images.githubusercontent.com/125751480/219979212-b8421dae-c4be-4e35-8c32-6218a7d9cb5c.PNG">
+
+https://github.com/LydieNgar
+https://github.com/LydieNgar/Projet_Spring
